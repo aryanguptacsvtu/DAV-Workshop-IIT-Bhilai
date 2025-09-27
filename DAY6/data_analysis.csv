@@ -1,0 +1,50 @@
+Sno,ID,Name,2025-02-03,2025-02-03 Lab,2025-02-05,2025-02-07,2025-02-10,2025-02-10 Lab,2025-02-12,2025-02-14,2025-02-25,2025-02-28,2025-03-03,2025-03-03 Lab,2025-03-05,2025-03-07,2025-03-17,2025-03-17 Lab,2025-03-19,2025-03-21,2025-03-24,2025-03-24 Lab,2025-03-26,2025-03-28,2025-04-02,2025-04-04,2025-04-07,2025-04-07 Lab,2025-04-09,2025-04-11,2025-04-12 Lab,2025-04-16,2025-04-21 Lab,2025-04-23,2025-04-25,Total
+1,12140260,A. Chaitanya Sai,A,,P,P,A,,P,P,P,A,P,,A,P,P,,P,A,A,A,P,P,A,P,P,NA,A,A,NA,A,NA,P,P,15
+2,12140010,Aayush Kataria ,P,A,A,A,P,A,P,A,P,P,A,A,P,A,A,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,20
+3,12340050,Abhigyan Sharma ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+4,12340580,Ajay Chikate ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+5,12340160,Akshat Gupta ,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,29
+6,12340220,Amay Dixit ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+7,12340250,Anamika Rajesh ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+8,12340260,Anant Agrawal ,A,P,A,A,A,A,A,A,A,A,A,A,A,A,P,A,P,A,P,A,A,A,A,A,A,A,A,A,A,A,A,A,A,4
+9,12340360,Aryan Verma,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,29
+10,12340710,Ashirvadhan ,P,P,P,P,P,P,P,P,A,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,A,27
+11,12340390,Ashutosh Kumar Jha ,P,P,P,P,A,P,P,P,P,P,P,P,A,A,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,A,P,P,P,27
+12,12340480,Balthi Reethika ,P,P,P,P,A,P,P,P,P,A,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,27
+13,12240400,Bhagyashree Solanki ,P,P,P,A,A,P,P,P,P,A,P,P,P,A,P,P,P,A,A,P,P,A,P,P,A,P,P,A,P,A,P,P,P,23
+14,12340530,Bonta Aalaya ,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+15,12340540,Boppani Siri Chandana ,P,A,A,A,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,A,25
+16,12340630,Dereddy Srividhya ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,A,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,28
+17,12341760,Devendar ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,30
+18,12341710,Dheemanth ,P,P,A,P,P,P,A,A,P,P,P,P,A,A,P,P,P,P,P,P,A,P,P,A,A,P,P,P,A,P,P,P,A,23
+19,12340740,Farhan Alam ,P,P,P,P,P,P,P,A,P,P,P,P,P,A,A,P,P,P,P,P,P,A,P,P,P,P,P,A,P,A,P,P,P,27
+20,12340850,G. Nikhilesh ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+21,12340940,Himanshi ,P,P,A,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,30
+22,12341020,Jiya Mehta ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,32
+23,12341080,K. Ganeshbabu ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+24,12341070,K.L.S. Venkat ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+25,12341130,Kesav Patneedi ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+26,12341170,Khethavath Sunil Naik ,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,A,A,P,P,P,A,P,P,P,P,P,P,P,P,28
+27,12341180,Khushi Sharma ,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,31
+28,12341190,Kinshuk Gupta ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+29,12341270,Kunal Sewal ,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,A,P,A,P,P,P,P,P,A,P,A,P,27
+30,12141160,Nikhil Kumar Shrey ,A,P,P,A,P,P,P,A,A,P,A,A,P,A,A,P,P,A,P,P,P,P,P,P,A,P,A,P,P,A,A,P,A,19
+31,12341580,Pobitro Bhattacharya,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+32,12341680,Rahul Raj ,P,P,P,A,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,A,P,P,A,P,P,P,P,A,26
+33,12341700,Rajeev Kumar ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,31
+34,12341750,Rathod ChetanKumar Arvindbhai ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,32
+35,12341740,RCN Venkata Chaitanya Kumar ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,30
+36,12341790,Rishi Kharya ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+37,12341810,Ritika Singh Katoch ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+38,12341820,Rohit Raghuwanshi ,A,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,29
+39,12341920,Sarthak Gopal Sharma ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,A,29
+40,12341330,Sashank ,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,31
+41,12342010,Shashank Yadav ,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+42,12342030,Shourya Kalbande ,P,P,A,P,A,P,P,A,P,A,A,P,P,A,P,P,A,A,P,P,A,P,A,P,P,P,A,A,P,P,P,P,A,20
+43,12342060,Sidhesh Kumar Patra ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,P,P,A,P,P,A,A,P,27
+44,12240480,Sreya Chitluru ,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,A,P,P,A,P,A,P,A,P,P,A,P,A,A,A,A,22
+45,12342180,Suraj Kumar ,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,32
+46,12342260,Teesha Ramchandani ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33
+47,12342300,Vaishnavi Pawar,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,,P,P,P,P,P,P,P,P,P,P,P,P,P,P,31
+48,12342320,Varun Rao ,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,,P,P,P,P,P,P,P,P,P,P,A,P,P,P,31
+49,12342330,Vasu Garg ,P,A,P,P,P,P,P,A,P,P,P,P,A,P,A,P,P,A,,P,P,A,P,P,P,P,A,P,P,P,P,A,A,23
