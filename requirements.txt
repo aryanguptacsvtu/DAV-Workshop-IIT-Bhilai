@@ -1,0 +1,10 @@
+# Core Libraries
+pandas
+matplotlib
+seaborn
+notebook
+scikit-learn
+networkx
+
+# For reading Excel files
+openpyxl
